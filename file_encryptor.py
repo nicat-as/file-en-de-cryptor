@@ -37,4 +37,3 @@ def decrypt(file, secret):
         remove(out_file)
 
 
-#vVoseCGJ38nBZwcRTa2O
